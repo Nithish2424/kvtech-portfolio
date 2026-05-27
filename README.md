@@ -56,7 +56,7 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 ### 🚀 Development
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet"/>
 
@@ -66,7 +66,7 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 ### ☁ Cloud & DevOps
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=azure,github,git"/>
 
@@ -76,12 +76,11 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 ### ⚙ IoT & Automation
 
-<div align="left">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=raspberrypi"/>
 
 </div>
-
 ---
 
 # 🚀 Engineering Projects
