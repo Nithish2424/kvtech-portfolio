@@ -2,33 +2,50 @@
 
 ## Engineering Innovation Through Technology
 
-KVTECH is a modern technology solutions company focused on:
+KVTECH is a modern technology solutions company focused on delivering scalable software, cloud, IoT, ERP, and automation solutions for enterprises and businesses.
 
-- Cloud & Azure Solutions
-- IoT & Raspberry Pi Systems
+---
+
+# 🌍 Company Overview
+
+KVTECH specializes in:
+
 - Enterprise Software Development
-- ERP Platforms
-- Automation Systems
-- Drone Technology
+- Cloud & Azure Solutions
+- Oracle Fusion ERP Support
+- Microsoft Dynamics 365 F&O
+- IoT & Raspberry Pi Solutions
+- Drone Technology & Automation
+- Infrastructure & Facility Management
 - DevOps & CI/CD Engineering
+
+📍 Locations:
+- Chennai, Tamil Nadu
+- Madurai, Tamil Nadu
+
+📅 Founded: 2015
 
 ---
 
 # 🚀 Engineering Mission
 
-Building scalable, intelligent, and cloud-ready solutions
-for modern businesses using engineering-driven innovation.
+Building scalable, intelligent, and cloud-ready systems through engineering-driven innovation and automation.
 
 ---
 
 # 🛠 Technology Stack
 
-## Languages & Development
+## Languages & Frameworks
 
 - Python
 - JavaScript
+- React
+- Node.js
 - HTML5
 - CSS3
+- .NET
+
+---
 
 ## Cloud & DevOps
 
@@ -36,55 +53,121 @@ for modern businesses using engineering-driven innovation.
 - GitHub
 - CI/CD Pipelines
 - Git
+- Azure Cloud
+- Power Platform
+
+---
+
+## ERP & Enterprise Solutions
+
+- Oracle Fusion ERP
+- Microsoft Dynamics 365 F&O
+- Enterprise Application Support
+
+---
 
 ## Hardware & IoT
 
 - Raspberry Pi
 - IoT Automation
 - Embedded Systems
+- Drone Programming
 
 ---
 
 # 📂 Featured Engineering Projects
 
 ## 🔹 Face Recognition Attendance System
+
 AI-powered attendance automation system using Python & OpenCV.
 
+### Features
+- Real-time face detection
+- Attendance tracking
+- CSV report generation
+- Camera integration
+
+### Technologies
+- Python
+- OpenCV
+- Raspberry Pi
+
+---
+
 ## 🔹 IoT Smart Automation Platform
-Raspberry Pi powered automation infrastructure.
 
-## 🔹 WhatsApp Automation Framework
-Python-based communication automation system.
+Smart automation infrastructure powered using Raspberry Pi and IoT sensors.
 
-## 🔹 Azure DevOps Deployment Pipeline
-CI/CD deployment workflow using GitHub & Azure DevOps.
+### Features
+- Device automation
+- Sensor integration
+- Remote monitoring
+- Real-time control systems
+
+### Technologies
+- Raspberry Pi
+- Python
+- IoT Sensors
+
+---
+
+## 🔹 Azure DevOps CI/CD Pipeline
+
+Automated deployment workflow using GitHub and Azure DevOps.
+
+### Features
+- Continuous Integration
+- Automated Deployment
+- Source Control Automation
+- Cloud Deployment Workflow
+
+### Technologies
+- Azure DevOps
+- GitHub
+- YAML Pipelines
+
+---
+
+# ☁ DevOps & Cloud Engineering
+
+KVTECH follows modern engineering workflows:
+
+```text
+Development
+↓
+GitHub
+↓
+Azure DevOps
+↓
+CI/CD Pipeline
+↓
+Cloud Deployment
+```
 
 ---
 
 # 🌐 Connect With KVTECH
 
-- Website: https://kvtechserv.com
-- GitHub Organization: https://github.com/KVTECHSERV
-
----
-
-# 🚀 DevOps & Cloud Engineering
-
-We build and deploy systems using:
-
-- Azure Cloud
-- Azure DevOps
-- GitHub Actions
-- CI/CD Pipelines
-- Automated Deployment Workflows
+- Website: https://kvtechserv.com/
+- LinkedIn: https://in.linkedin.com/company/kv-technology-services
 
 ---
 
 # 🔥 Engineering Culture
 
 KVTECH focuses on:
+
 - Innovation
-- Scalable Architecture
 - Automation
 - Cloud Integration
-- Modern Engineering Practices
+- Modern Architecture
+- Scalable Engineering
+- Continuous Learning
+
+---
+
+# 📊 GitHub Engineering Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithish2424&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nithish2424&theme=tokyonight)
