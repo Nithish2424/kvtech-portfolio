@@ -38,7 +38,7 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8d0d-4e70-8e85-2c5e3f7f5d6b.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 ---
 
