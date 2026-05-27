@@ -179,35 +179,25 @@ Monitoring & Support
 
 # 🛠 Technology Stack
 
-### 🚀 Development
-
 <div align="center">
+
+### 🚀 Development
 
 <img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet"/>
 
-</div>
-
-<br>
+<br><br>
 
 ### ☁ Cloud & DevOps
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=azure,github,git"/>
 
-</div>
-
-<br>
+<br><br>
 
 ### ⚙ IoT & Automation
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=raspberrypi"/>
 
 </div>
-
-<br>
 
 ### 📊 Analytics & Enterprise
 
