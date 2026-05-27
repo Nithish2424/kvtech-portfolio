@@ -177,11 +177,51 @@ Monitoring & Support
 
 ---
 
-# 🛠 Technology Ecosystem
+# 🛠 Technology Stack
+
+### 🚀 Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet,azure,github,git,raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet"/>
+
+</div>
+
+<br>
+
+### ☁ Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,github,git"/>
+
+</div>
+
+<br>
+
+### ⚙ IoT & Automation
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=raspberrypi"/>
+
+</div>
+
+<br>
+
+### 📊 Analytics & Enterprise
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Logic_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ERP_Solutions-5C2D91?style=for-the-badge"/>
 
 </div>
 
