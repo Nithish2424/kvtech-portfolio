@@ -10,7 +10,9 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Building+Scalable+Digital+Solutions;Cloud+%7C+Automation+%7C+Enterprise+Engineering;Transforming+Businesses+Through+Technology"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Engineering+Future+Ready+Businesses;Cloud+%7C+DevOps+%7C+Automation;Enterprise+Technology+Solutions;Innovation+Through+Engineering"/>
+
+</div>
 
 <br><br>
 
