@@ -178,19 +178,16 @@ Monitoring & Support
 <img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet"/>
 
 <br><br>
-
 ### ☁ Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=azure,github,git"/>
 
 <br><br>
-
 ### ⚙ IoT & Automation
 
 <img src="https://skillicons.dev/icons?i=raspberrypi"/>
 
 </div>
-
 ---
 
 # 🌐 Corporate Presence
