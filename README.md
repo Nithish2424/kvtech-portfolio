@@ -1,5 +1,5 @@
 <h1 align="center">
-🚀 KVTECH
+🚀 KANI VILAS TECHNOLOGY SERVICES
 </h1>
 
 <h3 align="center">
@@ -10,19 +10,17 @@ Engineering Innovation Through Technology
 Cloud • Automation • IoT • Enterprise Applications • DevOps
 </p>
 
----
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Azure_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/DevOps-CB2E6D?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-CB2E6D?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_PI-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
@@ -30,203 +28,248 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 ---
 
+<div align="center">
+
+### ⚡ Transforming Businesses Through Modern Engineering Solutions ⚡
+
+</div>
+
+---
+
 # 🌍 About KVTECH
 
 Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, automation, and enterprise solutions for modern businesses.
 
-### Core Expertise
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Core Expertise
 
 - ☁ Azure Cloud Services
 - 🔄 DevOps & CI/CD
 - 📱 Mobile Applications
 - 🌐 Web Applications
-- ⚙ IoT & Automation
-- 🏢 ERP & Enterprise Solutions
+
+</td>
+
+<td width="50%">
+
+### ⚙ Engineering Domains
+
+- 🏢 ERP Solutions
+- ⚡ IoT & Automation
 - 🚁 Drone Technology
 - 📊 Power BI Analytics
+
+</td>
+</tr>
+</table>
 
 ---
 
 # ⚡ Why Choose KVTECH?
 
-✅ On-Time Delivery  
-✅ Rich UI Experience  
-✅ Cost-Effective Solutions  
-✅ Scalable Architecture  
-✅ Long-Term Support  
-✅ Enterprise Integration  
+<div align="center">
+
+| 🚀 | 💡 |
+|---|---|
+| ✅ | On-Time Project Delivery |
+| ✅ | Rich UI Experience |
+| ✅ | Cost-Effective Solutions |
+| ✅ | Scalable Architecture |
+| ✅ | Enterprise Integration |
+| ✅ | Long-Term Technical Support |
+
+</div>
 
 ---
 
 # 🛠 Technology Stack
 
+<div align="center">
+
 ## 🚀 Development
 
-- Python
-- React
-- .NET
-- JavaScript
-- HTML5
-- CSS3
+<img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet"/>
 
 ---
 
 ## ☁ Cloud & DevOps
 
-- Azure Cloud
-- Azure DevOps
-- GitHub
-- CI/CD Pipelines
-- Logic Apps
-- Power Platform
+<img src="https://skillicons.dev/icons?i=azure,github,git"/>
 
 ---
 
 ## ⚙ IoT & Automation
 
-- Raspberry Pi
-- IoT Sensors
-- Embedded Systems
-- Mobile Automation
+<img src="https://skillicons.dev/icons?i=raspberrypi"/>
+
+</div>
 
 ---
 
 # 🚀 Engineering Projects
 
-## ⛽ PetroSol
+<table>
+<tr>
+<td width="50%">
+
+### ⛽ PetroSol
 Petrol pump automation platform with stock management, billing, SMS integration, and accounting automation.
 
 ---
 
-## 🏭 K-OPTIMUM
+### 🏭 K-OPTIMUM
 Blue metal & ready-mix concrete management system with inventory, production, billing, and financial tracking.
 
 ---
 
-## 🤖 AI Rebar Estimation
+### 🤖 AI Rebar Estimation
 AI-powered structural drawing analysis and automated rebar quantity estimation system.
 
 ---
 
-## 🧠 Supplier Payment Automation
+### 🧠 Supplier Payment Automation
 Gen AI & Power Platform solution for ERP invoice reconciliation and supplier communication.
 
 ---
 
-## ⛏ Mining Operations Management
+### ⛏ Mining Operations Management
 Mining production, compliance, billing, and operational management platform.
 
----
+</td>
 
-## 👨‍💼 Workforce Management
+<td width="50%">
+
+### 👨‍💼 Workforce Management
 Mobile-based attendance, GPS tracking, leave management, and payroll integration system.
 
 ---
 
-## 🏦 Pledge Management System
+### 🏦 Pledge Management System
 Digital pledge and pawn broker management with interest calculation and accounting integration.
 
 ---
 
-## 🛠 AMC & Service Management
+### 🛠 AMC & Service Management
 Service lifecycle and AMC management system for maintenance and support operations.
 
 ---
 
-## 📚 Book Shop Management
+### 📚 Book Shop Management
 Inventory, billing, purchase, and sales management solution for book shops.
 
 ---
 
-## 📂 Record Management
+### 📂 Record Management
 Centralized document tracking system with expiry alerts and reporting.
 
----
-
-## 🛡 Insurance Management
-Employee insurance, claims, provider, and policy management platform.
-
----
-
-## 🛒 E-Commerce Platform
-Online shopping system with product catalog, billing, and inventory management.
+</td>
+</tr>
+</table>
 
 ---
 
-## 💊 Pharmacy Management
-Medicine stock, purchase, billing, and inventory management solution.
+# 📱 Mobile & Enterprise Applications
+
+<div align="center">
+
+| 📱 Applications | ⚡ Solutions |
+|---|---|
+| Workforce Apps | GPS & Attendance Tracking |
+| Retail Systems | Billing & Inventory |
+| E-Commerce | Online Product Management |
+| Turf Booking | Slot & Payment Management |
+| Pharmacy Systems | Stock & Billing |
+| Education ERP | Student & Payroll Management |
+
+</div>
 
 ---
 
-## 🚚 Travel & Container Management
-Vehicle maintenance, booking, trip sheet, and container movement management system.
+# ☁ DevOps & Cloud Workflow
 
----
+<div align="center">
 
-## 🏫 Education Management
-Student, payroll, fee, syllabus, and institutional management platform.
+```text
+Planning
+   ↓
+Development
+   ↓
+GitHub
+   ↓
+Azure DevOps
+   ↓
+CI/CD Pipeline
+   ↓
+Cloud Deployment
+```
 
----
-
-## 🛒 Retail Billing Solutions
-Retail billing and inventory systems for pharmacies, canteens, milk parlors, and stores.
-
----
-
-## 💰 Asset & Finance Management
-Vehicle finance, QR asset tracking, insurance, and financial management system.
-
----
-
-## 📱 Mobile Applications
-Tracking, billing, booking, communication, and GPS-enabled mobile applications.
-
----
-
-## 🍽 Canteen Management App
-Mobile-based canteen inventory, billing, and purchase management system.
-
----
-
-## ⚽ Turf Booking Application
-Online playground slot booking and payment management platform.
+</div>
 
 ---
 
 # 🌐 Corporate Presence
 
-## 🏢 Registered Office
+<table>
+<tr>
+<td width="33%">
 
-📍 3, Kani Vilas, Kavery II Street, Parasakthi Nagar, Madurai, Tamil Nadu – 625012, India
+### 🏢 Registered Office
 
----
+📍 Madurai, Tamil Nadu, India
 
-## 🏢 Madurai Office
+</td>
 
-📍 No.7, 1st Floor, Meenakshi Avenue, APK Main Road, Opp. Gladway, Avaniyapuram, Madurai – 625012, Tamil Nadu, India
+<td width="33%">
 
----
+### 🏢 Development Center
 
-## 🏢 Chennai Branch
+📍 Avaniyapuram, Madurai
 
-📍 No.141, Workafella, 7th Floor, TVH Agnitio Tech Park, OMR Service Road, Kandhanchavadi, Perungudi, Chennai – 600096, Tamil Nadu, India
+</td>
+
+<td width="33%">
+
+### 🏢 Chennai Branch
+
+📍 OMR Tech Park, Chennai
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 📞 Contact Information
 
+<div align="center">
+
 📧 manikandan@kvtechserv.com  
+
 📱 +91 8667604978  
+
 ☎ +91 0452 2679097  
 
 🌐 https://kvtechserv.com/
+
+</div>
 
 ---
 
 # 🚀 Engineering Vision
 
-<p align="center">
+<div align="center">
 
-Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
+### Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Engineering • Innovation • Automation • Scalability ⭐
+
+</div>
