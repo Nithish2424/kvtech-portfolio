@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🚀 KVTECH</h1>
+<h1>🚀 Kani Vilas Technology Services</h1>
 
 <h3>Engineering Innovation Through Technology</h3>
 
