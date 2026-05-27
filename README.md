@@ -14,7 +14,7 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Nithish2424&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656986-df39d92f-7f48-41de-b573-66c8c8d583c5.gif" width="100%">
 
 </div>
 
