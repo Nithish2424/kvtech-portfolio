@@ -173,43 +173,19 @@ Online playground slot booking and payment management platform.
 
 ## 🏢 Registered Office
 
-```text
-3, Kani Vilas,
-Kavery II Street,
-Parasakthi Nagar,
-Madurai,
-Tamil Nadu – 625012
-India
-```
+📍 3, Kani Vilas, Kavery II Street, Parasakthi Nagar, Madurai, Tamil Nadu – 625012, India
 
 ---
 
 ## 🏢 Madurai Office
 
-```text
-No.7, 1st Floor,
-Meenakshi Avenue,
-APK Main Road,
-Opp. Gladway,
-Avaniyapuram,
-Madurai – 625012
-Tamil Nadu, India
-```
+📍 No.7, 1st Floor, Meenakshi Avenue, APK Main Road, Opp. Gladway, Avaniyapuram, Madurai – 625012, Tamil Nadu, India
 
 ---
 
 ## 🏢 Chennai Branch
 
-```text
-No.141, Workafella,
-7th Floor,
-TVH Agnitio Tech Park,
-OMR Service Road,
-Kandhanchavadi,
-Perungudi,
-Chennai – 600096
-Tamil Nadu, India
-```
+📍 No.141, Workafella, 7th Floor, TVH Agnitio Tech Park, OMR Service Road, Kandhanchavadi, Perungudi, Chennai – 600096, Tamil Nadu, India
 
 ---
 
