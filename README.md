@@ -232,32 +232,36 @@ Cloud Deployment
 
 ## 🏢 Registered Office
 
-📍 Madurai, Tamil Nadu, India
+📍 3, Kani Vilas,  
+Kavery II Street, Parasakthi Nagar,  
+Madurai, Tamil Nadu – 625012, India
 
-<br>
+---
 
 ## 🏢 Development Center
 
-📍 Avaniyapuram, Madurai
+📍 No.7, 1st Floor, Meenakshi Avenue,  
+APK Main Road, Opp. Gladway,  
+Avaniyapuram, Madurai – 625012,  
+Tamil Nadu, India
 
-<br>
+---
 
 ## 🏢 Chennai Branch
 
-📍 OMR Tech Park, Chennai
+📍 No.141, Workafella, 7th Floor,  
+TVH Agnitio Tech Park, OMR Service Road,  
+Kandhanchavadi, Perungudi,  
+Chennai – 600096, Tamil Nadu, India
 
 ---
 
 # 📞 Contact Information
 
 📧 manikandan@kvtechserv.com  
-
 📱 +91 8667604978  
-
 ☎ +91 0452 2679097  
-
 🌐 https://kvtechserv.com/
-
 ---
 
 # 🚀 Engineering Vision
