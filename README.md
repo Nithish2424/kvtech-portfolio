@@ -10,12 +10,6 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Engineering+Future+Ready+Businesses;Cloud+%7C+DevOps+%7C+Automation;Enterprise+Technology+Solutions;Innovation+Through+Engineering"/>
-
-</div>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=Nithish2424&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
@@ -37,10 +31,6 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 ---
 
@@ -105,10 +95,6 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 <img src="https://skillicons.dev/icons?i=raspberrypi"/>
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
@@ -231,10 +217,6 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 ## ⚽ Turf Booking Application
 
 > Online playground slot booking and payment management platform.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ---
 
