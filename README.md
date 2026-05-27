@@ -1,45 +1,69 @@
 <div align="center">
 
-<h1>🚀 Kani Vilas Technology Services</h1>
+# 🚀 Kani Vilas Technology Services
 
-<h3>Engineering Innovation Through Technology</h3>
+### Engineering Innovation Through Technology
 
 <p>
 Cloud • Automation • IoT • Enterprise Applications • DevOps
 </p>
 
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Building+Scalable+Digital+Solutions;Cloud+%7C+Automation+%7C+Enterprise+Engineering;Transforming+Businesses+Through+Technology"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Nithish2424&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </div>
 
 ---
 
-## 🌍 About KVTECH
+<div align="center">
 
-<p>
-Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, automation, and enterprise solutions for modern businesses.
-</p>
+<img src="https://img.shields.io/badge/Azure_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-<br>
+<img src="https://img.shields.io/badge/Azure_DevOps-CB2E6D?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 
-### 🚀 Core Expertise
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-☁ Azure Cloud Services  
-🔄 DevOps & CI/CD  
-📱 Mobile Applications  
-🌐 Web Applications  
-⚙ IoT & Automation  
-🏢 ERP & Enterprise Solutions  
-🚁 Drone Technology  
-📊 Power BI Analytics  
+<img src="https://img.shields.io/badge/Raspberry_PI-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
 
 ---
 
-## ⚡ Why Choose KVTECH?
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
-<p>
+---
+
+# 🌍 About KVTECH
+
+> Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, automation, and enterprise solutions for modern businesses.
+
+<br>
+
+## 🚀 Core Expertise
+
+```text
+☁ Azure Cloud Services
+🔄 DevOps & CI/CD
+📱 Mobile Applications
+🌐 Web Applications
+⚙ IoT & Automation
+🏢 ERP & Enterprise Solutions
+🚁 Drone Technology
+📊 Power BI Analytics
+```
+
+---
+
+# ⚡ Why Choose KVTECH?
 
 ✔ On-Time Project Delivery  
 ✔ Rich UI Experience  
@@ -48,11 +72,9 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 ✔ Enterprise Integration  
 ✔ Long-Term Technical Support  
 
-</p>
-
 ---
 
-## 🛠 Technology Stack
+# 🛠 Technology Stack
 
 ### 🚀 Development
 
@@ -81,171 +103,140 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 <img src="https://skillicons.dev/icons?i=raspberrypi"/>
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ---
 
 # 🚀 Engineering Projects
 
-### ⛽ PetroSol
+## ⛽ PetroSol
 
-<p>
-Petrol pump automation platform with stock management, billing, SMS integration, and accounting automation.
-</p>
+> Petrol pump automation platform with stock management, billing, SMS integration, and accounting automation.
 
 ---
 
-### 🏭 K-OPTIMUM
+## 🏭 K-OPTIMUM
 
-<p>
-Blue metal & ready-mix concrete management system with inventory, production, billing, and financial tracking.
-</p>
+> Blue metal & ready-mix concrete management system with inventory, production, billing, and financial tracking.
 
 ---
 
-### 🤖 AI Rebar Estimation
+## 🤖 AI Rebar Estimation
 
-<p>
-AI-powered structural drawing analysis and automated rebar quantity estimation system.
-</p>
+> AI-powered structural drawing analysis and automated rebar quantity estimation system.
 
 ---
 
-### 🧠 Supplier Payment Automation
+## 🧠 Supplier Payment Automation
 
-<p>
-Gen AI & Power Platform solution for ERP invoice reconciliation and supplier communication.
-</p>
+> Gen AI & Power Platform solution for ERP invoice reconciliation and supplier communication.
 
 ---
 
-### ⛏ Mining Operations Management
+## ⛏ Mining Operations Management
 
-<p>
-Mining production, compliance, billing, and operational management platform.
-</p>
+> Mining production, compliance, billing, and operational management platform.
 
 ---
 
-### 👨‍💼 Workforce Management
+## 👨‍💼 Workforce Management
 
-<p>
-Mobile-based attendance, GPS tracking, leave management, and payroll integration system.
-</p>
+> Mobile-based attendance, GPS tracking, leave management, and payroll integration system.
 
 ---
 
-### 🏦 Pledge Management System
+## 🏦 Pledge Management System
 
-<p>
-Digital pledge and pawn broker management with interest calculation and accounting integration.
-</p>
+> Digital pledge and pawn broker management with interest calculation and accounting integration.
 
 ---
 
-### 🛠 AMC & Service Management
+## 🛠 AMC & Service Management
 
-<p>
-Service lifecycle and AMC management system for maintenance and support operations.
-</p>
+> Service lifecycle and AMC management system for maintenance and support operations.
 
 ---
 
-### 📚 Book Shop Management
+## 📚 Book Shop Management
 
-<p>
-Inventory, billing, purchase, and sales management solution for book shops.
-</p>
+> Inventory, billing, purchase, and sales management solution for book shops.
 
 ---
 
-### 📂 Record Management
+## 📂 Record Management
 
-<p>
-Centralized document tracking system with expiry alerts and reporting.
-</p>
+> Centralized document tracking system with expiry alerts and reporting.
 
 ---
 
-### 🛡 Insurance Management
+## 🛡 Insurance Management
 
-<p>
-Employee insurance, claims, provider, and policy management platform.
-</p>
+> Employee insurance, claims, provider, and policy management platform.
 
 ---
 
-### 🛒 E-Commerce Platform
+## 🛒 E-Commerce Platform
 
-<p>
-Online shopping system with product catalog, billing, and inventory management.
-</p>
+> Online shopping system with product catalog, billing, and inventory management.
 
 ---
 
-### 💊 Pharmacy Management
+## 💊 Pharmacy Management
 
-<p>
-Medicine stock, purchase, billing, and inventory management solution.
-</p>
+> Medicine stock, purchase, billing, and inventory management solution.
 
 ---
 
-### 🚚 Travel & Container Management
+## 🚚 Travel & Container Management
 
-<p>
-Vehicle maintenance, booking, trip sheet, and container movement management system.
-</p>
+> Vehicle maintenance, booking, trip sheet, and container movement management system.
 
 ---
 
-### 🏫 Education Management
+## 🏫 Education Management
 
-<p>
-Student, payroll, fee, syllabus, and institutional management platform.
-</p>
+> Student, payroll, fee, syllabus, and institutional management platform.
 
 ---
 
-### 🛒 Retail Billing Solutions
+## 🛒 Retail Billing Solutions
 
-<p>
-Retail billing and inventory systems for pharmacies, canteens, milk parlors, and stores.
-</p>
+> Retail billing and inventory systems for pharmacies, canteens, milk parlors, and stores.
 
 ---
 
-### 💰 Asset & Finance Management
+## 💰 Asset & Finance Management
 
-<p>
-Vehicle finance, QR asset tracking, insurance, and financial management system.
-</p>
+> Vehicle finance, QR asset tracking, insurance, and financial management system.
 
 ---
 
-### 📱 Mobile Applications
+## 📱 Mobile Applications
 
-<p>
-Tracking, billing, booking, communication, and GPS-enabled mobile applications.
-</p>
+> Tracking, billing, booking, communication, and GPS-enabled mobile applications.
 
 ---
 
-### 🍽 Canteen Management App
+## 🍽 Canteen Management App
 
-<p>
-Mobile-based canteen inventory, billing, and purchase management system.
-</p>
+> Mobile-based canteen inventory, billing, and purchase management system.
 
 ---
 
-### ⚽ Turf Booking Application
+## ⚽ Turf Booking Application
 
-<p>
-Online playground slot booking and payment management platform.
-</p>
+> Online playground slot booking and payment management platform.
 
 ---
 
-## ☁ DevOps & Cloud Workflow
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+---
+
+# ☁ DevOps & Cloud Workflow
 
 ```text
 Planning
@@ -263,58 +254,70 @@ Cloud Deployment
 
 ---
 
-## 🌐 Corporate Presence
+# 📊 GitHub Statistics
 
-### 🏢 Registered Office
+<div align="center">
 
-<p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nithish2424&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish2424&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithish2424&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Corporate Presence
+
+## 🏢 Registered Office
+
 📍 3, Kani Vilas,  
 Kavery II Street, Parasakthi Nagar,  
 Madurai, Tamil Nadu – 625012, India
-</p>
 
 ---
 
-### 🏢 Development Center
+## 🏢 Development Center
 
-<p>
 📍 No.7, 1st Floor, Meenakshi Avenue,  
 APK Main Road, Opp. Gladway,  
-Avaniyapuram, Madurai – 625012,  
-Tamil Nadu, India
-</p>
+Avaniyapuram, Madurai – 625012, Tamil Nadu, India
 
 ---
 
-### 🏢 Chennai Branch
+## 🏢 Chennai Branch
 
-<p>
 📍 No.141, Workafella, 7th Floor,  
 TVH Agnitio Tech Park, OMR Service Road,  
 Kandhanchavadi, Perungudi,  
 Chennai – 600096, Tamil Nadu, India
-</p>
 
 ---
 
-## 📞 Contact Information
-
-<p>
+# 📞 Contact Information
 
 📧 manikandan@kvtechserv.com  
-
 📱 +91 8667604978  
-
 ☎ +91 0452 2679097  
-
 🌐 https://kvtechserv.com/
-
-</p>
 
 ---
 
-## 🚀 Engineering Vision
+# 🚀 Engineering Vision
 
-<p>
-Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
-</p>
+> Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
+
+---
+
+<div align="center">
+
+## ⭐ Engineering • Innovation • Automation • Scalability ⭐
+
+</div>
