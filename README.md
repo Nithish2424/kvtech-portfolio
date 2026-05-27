@@ -1,8 +1,32 @@
-# 🚀 KVTECH
+<h1 align="center">
+🚀 KVTECH
+</h1>
 
-### Engineering Innovation Through Technology
+<h3 align="center">
+Engineering Innovation Through Technology
+</h3>
 
-> Cloud • Automation • IoT • Enterprise Applications • DevOps
+<p align="center">
+Cloud • Automation • IoT • Enterprise Applications • DevOps
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Azure_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DevOps-CB2E6D?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
 
 ---
 
@@ -192,9 +216,7 @@ Online playground slot booking and payment management platform.
 # 📞 Contact Information
 
 📧 manikandan@kvtechserv.com  
-
 📱 +91 8667604978  
-
 ☎ +91 0452 2679097  
 
 🌐 https://kvtechserv.com/
@@ -203,4 +225,8 @@ Online playground slot booking and payment management platform.
 
 # 🚀 Engineering Vision
 
-> Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
+<p align="center">
+
+Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
+
+</p>
