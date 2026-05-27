@@ -1,10 +1,6 @@
-<h1 align="center">
-🚀 KVTECH
-</h1>
+<h1 align="center">🚀 KVTECH</h1>
 
-<h3 align="center">
-Engineering Innovation Through Technology
-</h3>
+<h3 align="center">Engineering Innovation Through Technology</h3>
 
 <p align="center">
 Cloud • Automation • IoT • Enterprise Applications • DevOps
@@ -30,73 +26,61 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 ---
 
-<div align="center">
-
-### ⚡ Transforming Businesses Through Modern Engineering Solutions ⚡
-
-</div>
-
----
-
-# 🌍 About KVTECH
-
-<div align="center">
+## 🌍 About KVTECH
 
 Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, automation, and enterprise solutions for modern businesses.
 
-</div>
+<br>
+
+### 🚀 Core Expertise
+
+- ☁ Azure Cloud Services
+- 🔄 DevOps & CI/CD
+- 📱 Mobile Applications
+- 🌐 Web Applications
+- 🏢 ERP Solutions
+- ⚡ IoT & Automation
+- 🚁 Drone Technology
+- 📊 Power BI Analytics
 
 ---
 
-<div align="center">
+## ⚡ Why Choose KVTECH?
 
-## 🚀 Core Expertise
-
-☁ Azure Cloud Services  
-🔄 DevOps & CI/CD  
-📱 Mobile Applications  
-🌐 Web Applications  
-🏢 ERP Solutions  
-⚡ IoT & Automation  
-🚁 Drone Technology  
-📊 Power BI Analytics  
-
-</div>
+✔ On-Time Project Delivery  
+✔ Rich UI Experience  
+✔ Cost-Effective Solutions  
+✔ Scalable Architecture  
+✔ Enterprise Integration  
+✔ Long-Term Technical Support  
 
 ---
 
-# ⚡ Why Choose KVTECH?
+## 🛠 Technology Stack
 
-<div align="center">
+### 🚀 Development
 
-✅ On-Time Project Delivery  
-✅ Rich UI Experience  
-✅ Cost-Effective Solutions  
-✅ Scalable Architecture  
-✅ Enterprise Integration  
-✅ Long-Term Technical Support  
-
-</div>
-
----
-
-# 🛠 Technology Stack
-
-<div align="center">
-
-## 🚀 Development
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet"/>
 
----
+</div>
 
-## ☁ Cloud & DevOps
+<br>
+
+### ☁ Cloud & DevOps
+
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=azure,github,git"/>
 
----
+</div>
 
-## ⚙ IoT & Automation
+<br>
+
+### ⚙ IoT & Automation
+
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=raspberrypi"/>
 
@@ -106,133 +90,127 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 # 🚀 Engineering Projects
 
-<div align="center">
-
-## ⛽ PetroSol
+### ⛽ PetroSol
 
 Petrol pump automation platform with stock management, billing, SMS integration, and accounting automation.
 
 ---
 
-## 🏭 K-OPTIMUM
+### 🏭 K-OPTIMUM
 
 Blue metal & ready-mix concrete management system with inventory, production, billing, and financial tracking.
 
 ---
 
-## 🤖 AI Rebar Estimation
+### 🤖 AI Rebar Estimation
 
 AI-powered structural drawing analysis and automated rebar quantity estimation system.
 
 ---
 
-## 🧠 Supplier Payment Automation
+### 🧠 Supplier Payment Automation
 
 Gen AI & Power Platform solution for ERP invoice reconciliation and supplier communication.
 
 ---
 
-## ⛏ Mining Operations Management
+### ⛏ Mining Operations Management
 
 Mining production, compliance, billing, and operational management platform.
 
 ---
 
-## 👨‍💼 Workforce Management
+### 👨‍💼 Workforce Management
 
 Mobile-based attendance, GPS tracking, leave management, and payroll integration system.
 
 ---
 
-## 🏦 Pledge Management System
+### 🏦 Pledge Management System
 
 Digital pledge and pawn broker management with interest calculation and accounting integration.
 
 ---
 
-## 🛠 AMC & Service Management
+### 🛠 AMC & Service Management
 
 Service lifecycle and AMC management system for maintenance and support operations.
 
 ---
 
-## 📚 Book Shop Management
+### 📚 Book Shop Management
 
 Inventory, billing, purchase, and sales management solution for book shops.
 
 ---
 
-## 📂 Record Management
+### 📂 Record Management
 
 Centralized document tracking system with expiry alerts and reporting.
 
 ---
 
-## 🛡 Insurance Management
+### 🛡 Insurance Management
 
 Employee insurance, claims, provider, and policy management platform.
 
 ---
 
-## 🛒 E-Commerce Platform
+### 🛒 E-Commerce Platform
 
 Online shopping system with product catalog, billing, and inventory management.
 
 ---
 
-## 💊 Pharmacy Management
+### 💊 Pharmacy Management
 
 Medicine stock, purchase, billing, and inventory management solution.
 
 ---
 
-## 🚚 Travel & Container Management
+### 🚚 Travel & Container Management
 
 Vehicle maintenance, booking, trip sheet, and container movement management system.
 
 ---
 
-## 🏫 Education Management
+### 🏫 Education Management
 
 Student, payroll, fee, syllabus, and institutional management platform.
 
 ---
 
-## 🛒 Retail Billing Solutions
+### 🛒 Retail Billing Solutions
 
 Retail billing and inventory systems for pharmacies, canteens, milk parlors, and stores.
 
 ---
 
-## 💰 Asset & Finance Management
+### 💰 Asset & Finance Management
 
 Vehicle finance, QR asset tracking, insurance, and financial management system.
 
 ---
 
-## 📱 Mobile Applications
+### 📱 Mobile Applications
 
 Tracking, billing, booking, communication, and GPS-enabled mobile applications.
 
 ---
 
-## 🍽 Canteen Management App
+### 🍽 Canteen Management App
 
 Mobile-based canteen inventory, billing, and purchase management system.
 
 ---
 
-## ⚽ Turf Booking Application
+### ⚽ Turf Booking Application
 
 Online playground slot booking and payment management platform.
 
-</div>
-
 ---
 
-# ☁ DevOps & Cloud Workflow
-
-<div align="center">
+## ☁ DevOps & Cloud Workflow
 
 ```text
 Planning
@@ -248,37 +226,29 @@ CI/CD Pipeline
 Cloud Deployment
 ```
 
-</div>
-
 ---
 
-# 🌐 Corporate Presence
+## 🌐 Corporate Presence
 
-<div align="center">
-
-## 🏢 Registered Office
+### 🏢 Registered Office
 
 📍 Madurai, Tamil Nadu, India
 
----
+<br>
 
-## 🏢 Development Center
+### 🏢 Development Center
 
 📍 Avaniyapuram, Madurai
 
----
+<br>
 
-## 🏢 Chennai Branch
+### 🏢 Chennai Branch
 
 📍 OMR Tech Park, Chennai
 
-</div>
-
 ---
 
-# 📞 Contact Information
-
-<div align="center">
+## 📞 Contact Information
 
 📧 manikandan@kvtechserv.com  
 
@@ -288,17 +258,11 @@ Cloud Deployment
 
 🌐 https://kvtechserv.com/
 
-</div>
-
 ---
 
-# 🚀 Engineering Vision
+## 🚀 Engineering Vision
 
-<div align="center">
-
-### Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
-
-</div>
+Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
 
 ---
 
