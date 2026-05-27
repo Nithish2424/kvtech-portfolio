@@ -8,8 +8,6 @@
 Cloud • Automation • IoT • Enterprise Applications • DevOps
 </p>
 
-<br>
-
 </div>
 
 ---
@@ -20,7 +18,21 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 ---
 
-## ⚡ What Makes KVTECH Different?
+# 📈 Engineering Highlights
+
+<div align="center">
+
+| 🚀 Solutions | ☁ Cloud | ⚙ Automation | 📱 Platforms |
+|:---:|:---:|:---:|:---:|
+| Enterprise Applications | Azure DevOps | Smart IoT Systems | Mobile Applications |
+| ERP Solutions | CI/CD Pipelines | Workflow Automation | GPS Tracking |
+| Billing Platforms | Cloud Deployment | AI Integration | Workforce Systems |
+
+</div>
+
+---
+
+# ⚡ What Makes KVTECH Different?
 
 ✔ Engineering-Driven Solutions  
 ✔ Business-Oriented Development  
@@ -31,7 +43,7 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 ---
 
-## 🏢 Industries We Empower
+# 🏢 Industries We Empower
 
 <div align="left">
 
@@ -48,7 +60,7 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 ---
 
-## 🛠 Engineering Capabilities
+# 🛠 Engineering Capabilities
 
 ### ☁ Cloud & DevOps
 
@@ -80,41 +92,88 @@ Raspberry Pi • Smart Sensors • Automation Systems • Connected Infrastructu
 
 ---
 
+# ⚡ Engineering Focus
+
+<div align="center">
+
+| ☁ Cloud Engineering | ⚙ Automation | 📊 Analytics | 🔄 DevOps |
+|:---:|:---:|:---:|:---:|
+| Azure Services | IoT Systems | Power BI | CI/CD Pipelines |
+
+</div>
+
+---
+
+# 🛠 Technology Stack
+
+<div align="center">
+
+### 🚀 Development
+
+<img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet"/>
+
+<br><br>
+
+### ☁ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=azure,github,git"/>
+
+<br><br>
+
+### ⚙ IoT & Automation
+
+<img src="https://skillicons.dev/icons?i=raspberrypi"/>
+
+</div>
+
+---
+
 # 🚀 Featured Engineering Solutions
 
 ## ⛽ PetroSol
 
-Smart fuel station automation ecosystem with billing, stock control, and operational management.
+> Smart fuel station automation ecosystem with billing, stock control, and operational management.
 
 ---
 
 ## 🤖 AI Rebar Estimation
 
-AI-powered structural estimation platform for automated quantity analysis and engineering workflows.
+> AI-powered structural estimation platform for automated quantity analysis and engineering workflows.
 
 ---
 
 ## 🧠 Supplier Payment Automation
 
-Generative AI & Power Platform solution for automated ERP reconciliation and supplier workflows.
+> Generative AI & Power Platform solution for automated ERP reconciliation and supplier workflows.
 
 ---
 
 ## ⛏ Mining Operations Platform
 
-Integrated mining production, billing, compliance, and operational management system.
+> Integrated mining production, billing, compliance, and operational management system.
 
 ---
 
 ## 👨‍💼 Workforce Management
 
-Mobile-first attendance, GPS tracking, payroll, and workforce monitoring ecosystem.
+> Mobile-first attendance, GPS tracking, payroll, and workforce monitoring ecosystem.
 
 ---
 
 ## ⚙ Smart IoT Applications
 
-Automation platforms powered by Raspberry Pi, sensors, and connected mobile systems.
+> Automation platforms powered by Raspberry Pi, sensors, and connected mobile systems.
+
+---
+
+# 🚀 Solution Ecosystem
+
+🏢 Enterprise Platforms  
+☁ Cloud & DevOps  
+📱 Mobile Applications  
+⚙ IoT & Automation  
+📊 Business Analytics  
+🤖 AI Engineering  
 
 ---
 
@@ -169,30 +228,18 @@ Monitoring & Support
 
 ---
 
-# 🛠 Technology Stack
+# 🧠 Our Philosophy
 
-<div align="center">
+Build simple.  
+Scale intelligently.  
+Automate efficiently.  
+Deliver reliably.
 
-### 🚀 Development
-
-<img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet"/>
-
-<br><br>
-### ☁ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=azure,github,git"/>
-
-<br><br>
-### ⚙ IoT & Automation
-
-<img src="https://skillicons.dev/icons?i=raspberrypi"/>
-
-</div>
 ---
 
 # 🌐 Corporate Presence
 
-### 🏢 Registered Office
+## 🏢 Registered Office
 
 📍 3, Kani Vilas,  
 Kavery II Street, Parasakthi Nagar,  
@@ -200,7 +247,7 @@ Madurai, Tamil Nadu – 625012, India
 
 ---
 
-### 🏢 Development Center
+## 🏢 Development Center
 
 📍 No.7, 1st Floor, Meenakshi Avenue,  
 APK Main Road, Opp. Gladway,  
@@ -208,7 +255,7 @@ Avaniyapuram, Madurai – 625012, Tamil Nadu, India
 
 ---
 
-### 🏢 Chennai Branch
+## 🏢 Chennai Branch
 
 📍 No.141, Workafella, 7th Floor,  
 TVH Agnitio Tech Park, OMR Service Road,  
@@ -229,10 +276,18 @@ Chennai – 600096, Tamil Nadu, India
 
 ---
 
+# 🚀 Engineering Vision
+
+> Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
+
+---
+
+> “Transforming businesses through scalable engineering and intelligent automation.”
+
+---
+
 <div align="center">
 
-# 🚀 Engineering Future-Ready Digital Ecosystems
-
-### Innovation • Automation • Scalability • Cloud Engineering
+# ⭐ Engineering • Innovation • Automation • Scalability ⭐
 
 </div>
