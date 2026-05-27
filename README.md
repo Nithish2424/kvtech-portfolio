@@ -1,51 +1,45 @@
 <div align="center">
 
-# 🚀 KVTECH
+<h1>🚀 KVTECH</h1>
 
-### Engineering Innovation Through Technology
+<h3>Engineering Innovation Through Technology</h3>
 
 <p>
 Cloud • Automation • IoT • Enterprise Applications • DevOps
 </p>
 
-<br>
-
-<img src="https://img.shields.io/badge/Azure_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Azure_DevOps-CB2E6D?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Raspberry_PI-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 </div>
 
 ---
 
-# 🌍 About KVTECH
+## 🌍 About KVTECH
 
+<p>
 Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, automation, and enterprise solutions for modern businesses.
+</p>
 
 <br>
 
-## 🚀 Core Expertise
+### 🚀 Core Expertise
 
-- ☁ Azure Cloud Services
-- 🔄 DevOps & CI/CD
-- 📱 Mobile Applications
-- 🌐 Web Applications
-- ⚙ IoT & Automation
-- 🏢 ERP & Enterprise Solutions
-- 🚁 Drone Technology
-- 📊 Power BI Analytics
+<p>
+
+☁ Azure Cloud Services  
+🔄 DevOps & CI/CD  
+📱 Mobile Applications  
+🌐 Web Applications  
+⚙ IoT & Automation  
+🏢 ERP & Enterprise Solutions  
+🚁 Drone Technology  
+📊 Power BI Analytics  
+
+</p>
 
 ---
 
-# ⚡ Why Choose KVTECH?
+## ⚡ Why Choose KVTECH?
+
+<p>
 
 ✔ On-Time Project Delivery  
 ✔ Rich UI Experience  
@@ -54,11 +48,13 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 ✔ Enterprise Integration  
 ✔ Long-Term Technical Support  
 
+</p>
+
 ---
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
-## 🚀 Development
+### 🚀 Development
 
 <div align="left">
 
@@ -68,7 +64,7 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 <br>
 
-## ☁ Cloud & DevOps
+### ☁ Cloud & DevOps
 
 <div align="left">
 
@@ -78,7 +74,7 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 <br>
 
-## ⚙ IoT & Automation
+### ⚙ IoT & Automation
 
 <div align="left">
 
@@ -90,127 +86,167 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 # 🚀 Engineering Projects
 
-## ⛽ PetroSol
+### ⛽ PetroSol
 
-> Petrol pump automation platform with stock management, billing, SMS integration, and accounting automation.
-
----
-
-## 🏭 K-OPTIMUM
-
-> Blue metal & ready-mix concrete management system with inventory, production, billing, and financial tracking.
+<p>
+Petrol pump automation platform with stock management, billing, SMS integration, and accounting automation.
+</p>
 
 ---
 
-## 🤖 AI Rebar Estimation
+### 🏭 K-OPTIMUM
 
-> AI-powered structural drawing analysis and automated rebar quantity estimation system.
-
----
-
-## 🧠 Supplier Payment Automation
-
-> Gen AI & Power Platform solution for ERP invoice reconciliation and supplier communication.
+<p>
+Blue metal & ready-mix concrete management system with inventory, production, billing, and financial tracking.
+</p>
 
 ---
 
-## ⛏ Mining Operations Management
+### 🤖 AI Rebar Estimation
 
-> Mining production, compliance, billing, and operational management platform.
-
----
-
-## 👨‍💼 Workforce Management
-
-> Mobile-based attendance, GPS tracking, leave management, and payroll integration system.
+<p>
+AI-powered structural drawing analysis and automated rebar quantity estimation system.
+</p>
 
 ---
 
-## 🏦 Pledge Management System
+### 🧠 Supplier Payment Automation
 
-> Digital pledge and pawn broker management with interest calculation and accounting integration.
-
----
-
-## 🛠 AMC & Service Management
-
-> Service lifecycle and AMC management system for maintenance and support operations.
+<p>
+Gen AI & Power Platform solution for ERP invoice reconciliation and supplier communication.
+</p>
 
 ---
 
-## 📚 Book Shop Management
+### ⛏ Mining Operations Management
 
-> Inventory, billing, purchase, and sales management solution for book shops.
-
----
-
-## 📂 Record Management
-
-> Centralized document tracking system with expiry alerts and reporting.
+<p>
+Mining production, compliance, billing, and operational management platform.
+</p>
 
 ---
 
-## 🛡 Insurance Management
+### 👨‍💼 Workforce Management
 
-> Employee insurance, claims, provider, and policy management platform.
-
----
-
-## 🛒 E-Commerce Platform
-
-> Online shopping system with product catalog, billing, and inventory management.
+<p>
+Mobile-based attendance, GPS tracking, leave management, and payroll integration system.
+</p>
 
 ---
 
-## 💊 Pharmacy Management
+### 🏦 Pledge Management System
 
-> Medicine stock, purchase, billing, and inventory management solution.
-
----
-
-## 🚚 Travel & Container Management
-
-> Vehicle maintenance, booking, trip sheet, and container movement management system.
+<p>
+Digital pledge and pawn broker management with interest calculation and accounting integration.
+</p>
 
 ---
 
-## 🏫 Education Management
+### 🛠 AMC & Service Management
 
-> Student, payroll, fee, syllabus, and institutional management platform.
-
----
-
-## 🛒 Retail Billing Solutions
-
-> Retail billing and inventory systems for pharmacies, canteens, milk parlors, and stores.
+<p>
+Service lifecycle and AMC management system for maintenance and support operations.
+</p>
 
 ---
 
-## 💰 Asset & Finance Management
+### 📚 Book Shop Management
 
-> Vehicle finance, QR asset tracking, insurance, and financial management system.
-
----
-
-## 📱 Mobile Applications
-
-> Tracking, billing, booking, communication, and GPS-enabled mobile applications.
+<p>
+Inventory, billing, purchase, and sales management solution for book shops.
+</p>
 
 ---
 
-## 🍽 Canteen Management App
+### 📂 Record Management
 
-> Mobile-based canteen inventory, billing, and purchase management system.
-
----
-
-## ⚽ Turf Booking Application
-
-> Online playground slot booking and payment management platform.
+<p>
+Centralized document tracking system with expiry alerts and reporting.
+</p>
 
 ---
 
-# ☁ DevOps & Cloud Workflow
+### 🛡 Insurance Management
+
+<p>
+Employee insurance, claims, provider, and policy management platform.
+</p>
+
+---
+
+### 🛒 E-Commerce Platform
+
+<p>
+Online shopping system with product catalog, billing, and inventory management.
+</p>
+
+---
+
+### 💊 Pharmacy Management
+
+<p>
+Medicine stock, purchase, billing, and inventory management solution.
+</p>
+
+---
+
+### 🚚 Travel & Container Management
+
+<p>
+Vehicle maintenance, booking, trip sheet, and container movement management system.
+</p>
+
+---
+
+### 🏫 Education Management
+
+<p>
+Student, payroll, fee, syllabus, and institutional management platform.
+</p>
+
+---
+
+### 🛒 Retail Billing Solutions
+
+<p>
+Retail billing and inventory systems for pharmacies, canteens, milk parlors, and stores.
+</p>
+
+---
+
+### 💰 Asset & Finance Management
+
+<p>
+Vehicle finance, QR asset tracking, insurance, and financial management system.
+</p>
+
+---
+
+### 📱 Mobile Applications
+
+<p>
+Tracking, billing, booking, communication, and GPS-enabled mobile applications.
+</p>
+
+---
+
+### 🍽 Canteen Management App
+
+<p>
+Mobile-based canteen inventory, billing, and purchase management system.
+</p>
+
+---
+
+### ⚽ Turf Booking Application
+
+<p>
+Online playground slot booking and payment management platform.
+</p>
+
+---
+
+## ☁ DevOps & Cloud Workflow
 
 ```text
 Planning
@@ -228,50 +264,58 @@ Cloud Deployment
 
 ---
 
-# 🌐 Corporate Presence
+## 🌐 Corporate Presence
 
-## 🏢 Registered Office
+### 🏢 Registered Office
 
+<p>
 📍 3, Kani Vilas,  
 Kavery II Street, Parasakthi Nagar,  
 Madurai, Tamil Nadu – 625012, India
+</p>
 
 ---
 
-## 🏢 Development Center
+### 🏢 Development Center
 
+<p>
 📍 No.7, 1st Floor, Meenakshi Avenue,  
 APK Main Road, Opp. Gladway,  
 Avaniyapuram, Madurai – 625012,  
 Tamil Nadu, India
+</p>
 
 ---
 
-## 🏢 Chennai Branch
+### 🏢 Chennai Branch
 
+<p>
 📍 No.141, Workafella, 7th Floor,  
 TVH Agnitio Tech Park, OMR Service Road,  
 Kandhanchavadi, Perungudi,  
 Chennai – 600096, Tamil Nadu, India
+</p>
 
 ---
 
-# 📞 Contact Information
+## 📞 Contact Information
+
+<p>
 
 📧 manikandan@kvtechserv.com  
+
 📱 +91 8667604978  
+
 ☎ +91 0452 2679097  
+
 🌐 https://kvtechserv.com/
----
 
-# 🚀 Engineering Vision
-
-> Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
+</p>
 
 ---
 
-<div align="center">
+## 🚀 Engineering Vision
 
-## ⭐ Engineering • Innovation • Automation • Scalability ⭐
-
-</div>
+<p>
+Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
+</p>
