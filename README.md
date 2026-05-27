@@ -1,58 +1,90 @@
-# kvtech-portfolio
-Professional company portfolio website built using HTML, CSS, GitHub, and Azure DevOps.
 # KVTECH 🚀
 
-## Empowering Businesses Through Technology
+## Engineering Innovation Through Technology
 
-KVTECH is a technology solutions company focused on:
+KVTECH is a modern technology solutions company focused on:
 
-- Software Development
-- Azure & Cloud Solutions
-- IoT & Raspberry Pi Projects
-- ERP Solutions
-- Drone Technology
+- Cloud & Azure Solutions
+- IoT & Raspberry Pi Systems
+- Enterprise Software Development
+- ERP Platforms
 - Automation Systems
+- Drone Technology
+- DevOps & CI/CD Engineering
 
 ---
 
-## 🛠 Technologies
+# 🚀 Engineering Mission
+
+Building scalable, intelligent, and cloud-ready solutions
+for modern businesses using engineering-driven innovation.
+
+---
+
+# 🛠 Technology Stack
+
+## Languages & Development
 
 - Python
-- HTML
-- CSS
 - JavaScript
+- HTML5
+- CSS3
+
+## Cloud & DevOps
+
 - Azure DevOps
 - GitHub
-- Linux
+- CI/CD Pipelines
+- Git
+
+## Hardware & IoT
+
 - Raspberry Pi
+- IoT Automation
+- Embedded Systems
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Engineering Projects
 
-### 🔹 Face Recognition Attendance System
-AI-powered attendance tracking system.
+## 🔹 Face Recognition Attendance System
+AI-powered attendance automation system using Python & OpenCV.
 
-### 🔹 IoT Smart Automation
-Smart automation using Raspberry Pi.
+## 🔹 IoT Smart Automation Platform
+Raspberry Pi powered automation infrastructure.
 
-### 🔹 WhatsApp Automation
-Python-based communication automation.
+## 🔹 WhatsApp Automation Framework
+Python-based communication automation system.
+
+## 🔹 Azure DevOps Deployment Pipeline
+CI/CD deployment workflow using GitHub & Azure DevOps.
 
 ---
 
-## 🌐 Connect With Us
+# 🌐 Connect With KVTECH
 
 - Website: https://kvtechserv.com
-- GitHub: https://github.com/kvtech-portfolio
+- GitHub Organization: https://github.com/KVTECHSERV
 
 ---
 
-## 🚀 DevOps & Cloud
+# 🚀 DevOps & Cloud Engineering
 
-We build and deploy projects using:
+We build and deploy systems using:
 
-- GitHub
+- Azure Cloud
 - Azure DevOps
+- GitHub Actions
 - CI/CD Pipelines
-- Azure Cloud Services
+- Automated Deployment Workflows
+
+---
+
+# 🔥 Engineering Culture
+
+KVTECH focuses on:
+- Innovation
+- Scalable Architecture
+- Automation
+- Cloud Integration
+- Modern Engineering Practices
