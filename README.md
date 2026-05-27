@@ -38,7 +38,7 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 ---
 
