@@ -1,14 +1,14 @@
-<h1 align="center">🚀 KVTECH</h1>
+<div align="center">
 
-<h3 align="center">Engineering Innovation Through Technology</h3>
+# 🚀 KVTECH
 
-<p align="center">
+### Engineering Innovation Through Technology
+
+<p>
 Cloud • Automation • IoT • Enterprise Applications • DevOps
 </p>
 
----
-
-<div align="center">
+<br>
 
 <img src="https://img.shields.io/badge/Azure_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
@@ -26,26 +26,26 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 ---
 
-## 🌍 About KVTECH
+# 🌍 About KVTECH
 
 Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, automation, and enterprise solutions for modern businesses.
 
 <br>
 
-### 🚀 Core Expertise
+## 🚀 Core Expertise
 
 - ☁ Azure Cloud Services
 - 🔄 DevOps & CI/CD
 - 📱 Mobile Applications
 - 🌐 Web Applications
-- 🏢 ERP Solutions
-- ⚡ IoT & Automation
+- ⚙ IoT & Automation
+- 🏢 ERP & Enterprise Solutions
 - 🚁 Drone Technology
 - 📊 Power BI Analytics
 
 ---
 
-## ⚡ Why Choose KVTECH?
+# ⚡ Why Choose KVTECH?
 
 ✔ On-Time Project Delivery  
 ✔ Rich UI Experience  
@@ -56,9 +56,9 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 ---
 
-## 🛠 Technology Stack
+# 🛠 Technology Stack
 
-### 🚀 Development
+## 🚀 Development
 
 <div align="left">
 
@@ -68,7 +68,7 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 <br>
 
-### ☁ Cloud & DevOps
+## ☁ Cloud & DevOps
 
 <div align="left">
 
@@ -78,7 +78,7 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 <br>
 
-### ⚙ IoT & Automation
+## ⚙ IoT & Automation
 
 <div align="left">
 
@@ -90,127 +90,127 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 # 🚀 Engineering Projects
 
-### ⛽ PetroSol
+## ⛽ PetroSol
 
-Petrol pump automation platform with stock management, billing, SMS integration, and accounting automation.
-
----
-
-### 🏭 K-OPTIMUM
-
-Blue metal & ready-mix concrete management system with inventory, production, billing, and financial tracking.
+> Petrol pump automation platform with stock management, billing, SMS integration, and accounting automation.
 
 ---
 
-### 🤖 AI Rebar Estimation
+## 🏭 K-OPTIMUM
 
-AI-powered structural drawing analysis and automated rebar quantity estimation system.
-
----
-
-### 🧠 Supplier Payment Automation
-
-Gen AI & Power Platform solution for ERP invoice reconciliation and supplier communication.
+> Blue metal & ready-mix concrete management system with inventory, production, billing, and financial tracking.
 
 ---
 
-### ⛏ Mining Operations Management
+## 🤖 AI Rebar Estimation
 
-Mining production, compliance, billing, and operational management platform.
-
----
-
-### 👨‍💼 Workforce Management
-
-Mobile-based attendance, GPS tracking, leave management, and payroll integration system.
+> AI-powered structural drawing analysis and automated rebar quantity estimation system.
 
 ---
 
-### 🏦 Pledge Management System
+## 🧠 Supplier Payment Automation
 
-Digital pledge and pawn broker management with interest calculation and accounting integration.
-
----
-
-### 🛠 AMC & Service Management
-
-Service lifecycle and AMC management system for maintenance and support operations.
+> Gen AI & Power Platform solution for ERP invoice reconciliation and supplier communication.
 
 ---
 
-### 📚 Book Shop Management
+## ⛏ Mining Operations Management
 
-Inventory, billing, purchase, and sales management solution for book shops.
-
----
-
-### 📂 Record Management
-
-Centralized document tracking system with expiry alerts and reporting.
+> Mining production, compliance, billing, and operational management platform.
 
 ---
 
-### 🛡 Insurance Management
+## 👨‍💼 Workforce Management
 
-Employee insurance, claims, provider, and policy management platform.
-
----
-
-### 🛒 E-Commerce Platform
-
-Online shopping system with product catalog, billing, and inventory management.
+> Mobile-based attendance, GPS tracking, leave management, and payroll integration system.
 
 ---
 
-### 💊 Pharmacy Management
+## 🏦 Pledge Management System
 
-Medicine stock, purchase, billing, and inventory management solution.
-
----
-
-### 🚚 Travel & Container Management
-
-Vehicle maintenance, booking, trip sheet, and container movement management system.
+> Digital pledge and pawn broker management with interest calculation and accounting integration.
 
 ---
 
-### 🏫 Education Management
+## 🛠 AMC & Service Management
 
-Student, payroll, fee, syllabus, and institutional management platform.
-
----
-
-### 🛒 Retail Billing Solutions
-
-Retail billing and inventory systems for pharmacies, canteens, milk parlors, and stores.
+> Service lifecycle and AMC management system for maintenance and support operations.
 
 ---
 
-### 💰 Asset & Finance Management
+## 📚 Book Shop Management
 
-Vehicle finance, QR asset tracking, insurance, and financial management system.
-
----
-
-### 📱 Mobile Applications
-
-Tracking, billing, booking, communication, and GPS-enabled mobile applications.
+> Inventory, billing, purchase, and sales management solution for book shops.
 
 ---
 
-### 🍽 Canteen Management App
+## 📂 Record Management
 
-Mobile-based canteen inventory, billing, and purchase management system.
-
----
-
-### ⚽ Turf Booking Application
-
-Online playground slot booking and payment management platform.
+> Centralized document tracking system with expiry alerts and reporting.
 
 ---
 
-## ☁ DevOps & Cloud Workflow
+## 🛡 Insurance Management
+
+> Employee insurance, claims, provider, and policy management platform.
+
+---
+
+## 🛒 E-Commerce Platform
+
+> Online shopping system with product catalog, billing, and inventory management.
+
+---
+
+## 💊 Pharmacy Management
+
+> Medicine stock, purchase, billing, and inventory management solution.
+
+---
+
+## 🚚 Travel & Container Management
+
+> Vehicle maintenance, booking, trip sheet, and container movement management system.
+
+---
+
+## 🏫 Education Management
+
+> Student, payroll, fee, syllabus, and institutional management platform.
+
+---
+
+## 🛒 Retail Billing Solutions
+
+> Retail billing and inventory systems for pharmacies, canteens, milk parlors, and stores.
+
+---
+
+## 💰 Asset & Finance Management
+
+> Vehicle finance, QR asset tracking, insurance, and financial management system.
+
+---
+
+## 📱 Mobile Applications
+
+> Tracking, billing, booking, communication, and GPS-enabled mobile applications.
+
+---
+
+## 🍽 Canteen Management App
+
+> Mobile-based canteen inventory, billing, and purchase management system.
+
+---
+
+## ⚽ Turf Booking Application
+
+> Online playground slot booking and payment management platform.
+
+---
+
+# ☁ DevOps & Cloud Workflow
 
 ```text
 Planning
@@ -228,27 +228,27 @@ Cloud Deployment
 
 ---
 
-## 🌐 Corporate Presence
+# 🌐 Corporate Presence
 
-### 🏢 Registered Office
+## 🏢 Registered Office
 
 📍 Madurai, Tamil Nadu, India
 
 <br>
 
-### 🏢 Development Center
+## 🏢 Development Center
 
 📍 Avaniyapuram, Madurai
 
 <br>
 
-### 🏢 Chennai Branch
+## 🏢 Chennai Branch
 
 📍 OMR Tech Park, Chennai
 
 ---
 
-## 📞 Contact Information
+# 📞 Contact Information
 
 📧 manikandan@kvtechserv.com  
 
@@ -260,14 +260,14 @@ Cloud Deployment
 
 ---
 
-## 🚀 Engineering Vision
+# 🚀 Engineering Vision
 
-Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
+> Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
 
 ---
 
 <div align="center">
 
-### ⭐ Engineering • Innovation • Automation • Scalability ⭐
+## ⭐ Engineering • Innovation • Automation • Scalability ⭐
 
 </div>
