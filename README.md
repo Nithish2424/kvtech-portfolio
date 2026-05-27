@@ -8,10 +8,6 @@
 Cloud • Automation • IoT • Enterprise Applications • DevOps
 </p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Nithish2424&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -235,26 +231,6 @@ CI/CD Pipeline
    ↓
 Cloud Deployment
 ```
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nithish2424&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish2424&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithish2424&theme=tokyonight"/>
-
-</div>
 
 ---
 
