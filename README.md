@@ -10,14 +10,6 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 <br>
 
-<img src="https://img.shields.io/badge/Cloud-Ready-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Enterprise-Solutions-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CI/CD-Pipelines-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Automation-Driven-red?style=for-the-badge"/>
-
 </div>
 
 ---
@@ -196,22 +188,6 @@ Monitoring & Support
 ### ⚙ IoT & Automation
 
 <img src="https://skillicons.dev/icons?i=raspberrypi"/>
-
-</div>
-
-### 📊 Analytics & Enterprise
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Logic_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ERP_Solutions-5C2D91?style=for-the-badge"/>
 
 </div>
 
