@@ -1,48 +1,18 @@
 <div align="center">
 
-# 🚀 KVTECH
+<h1>🚀 KVTECH</h1>
 
-### Engineering Innovation Through Technology
+<h3>Engineering Innovation Through Technology</h3>
 
 <p>
 Cloud • Automation • IoT • Enterprise Applications • DevOps
 </p>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Engineering+Innovation+Through+Technology;Cloud+%7C+Automation+%7C+IoT+%7C+DevOps;Building+Scalable+Digital+Solutions"/>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656986-df39d92f-7f48-41de-b573-66c8c8d583c5.gif" width="100%">
-
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Azure_Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Azure_DevOps-CB2E6D?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Raspberry_PI-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
----
-
-# 🌍 About KVTECH
+## 🌍 About KVTECH
 
 <p>
 Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, automation, and enterprise solutions for modern businesses.
@@ -50,7 +20,7 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 <br>
 
-## 🚀 Core Expertise
+### 🚀 Core Expertise
 
 <p>
 
@@ -67,7 +37,7 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 ---
 
-# ⚡ Why Choose KVTECH?
+## ⚡ Why Choose KVTECH?
 
 <p>
 
@@ -82,7 +52,7 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 
 ---
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 ### 🚀 Development
 
@@ -111,11 +81,6 @@ Kani Vilas Technology Services (KVTECH) delivers scalable software, cloud, autom
 <img src="https://skillicons.dev/icons?i=raspberrypi"/>
 
 </div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8d0d-4e70-8e85-2c5e3f7f5d6b.gif" width="100%">
-
 ---
 
 # 🚀 Engineering Projects
@@ -280,11 +245,7 @@ Online playground slot booking and payment management platform.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8d0d-4e70-8e85-2c5e3f7f5d6b.gif" width="100%">
-
----
-
-# ☁ DevOps & Cloud Workflow
+## ☁ DevOps & Cloud Workflow
 
 ```text
 Planning
@@ -302,27 +263,7 @@ Cloud Deployment
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nithish2424&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish2424&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithish2424&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌐 Corporate Presence
+## 🌐 Corporate Presence
 
 ### 🏢 Registered Office
 
@@ -356,7 +297,7 @@ Chennai – 600096, Tamil Nadu, India
 
 ---
 
-# 📞 Contact Information
+## 📞 Contact Information
 
 <p>
 
@@ -372,16 +313,8 @@ Chennai – 600096, Tamil Nadu, India
 
 ---
 
-# 🚀 Engineering Vision
+## 🚀 Engineering Vision
 
 <p>
 Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
 </p>
-
----
-
-<div align="center">
-
-## ⭐ Engineering • Innovation • Automation • Scalability ⭐
-
-</div>
