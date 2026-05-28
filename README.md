@@ -129,45 +129,16 @@ Analysis • Architecture • Development • Testing • CI/CD • Deployment
 </div>
 ---
 
-# ☁ DevOps Deployment Workflow
-
-```text
-GitHub
-   ↓
-Azure DevOps
-   ↓
-CI/CD Pipeline
-   ↓
-Cloud Deployment
-   ↓
-Monitoring & Support
-```
-
----
-
-# ⚡ Engineering Principles
-
-<div align="left">
-
-✔ Scalability  
-✔ Reliability  
-✔ Security  
-✔ Automation  
-✔ Performance Optimization  
-✔ Cloud Integration  
-✔ Maintainable Architecture  
-✔ Enterprise Standards  
-
+## ☁ DevOps Workflow
+<div align="center">
+GitHub → Azure DevOps → CI/CD → Cloud Deployment
 </div>
-
 ---
 
-# 🧠 Our Philosophy
-
-Build simple.  
-Scale intelligently.  
-Automate efficiently.  
-Deliver reliably.
+## ⚡ Engineering Principles
+<div align="center">
+Scalable • Reliable • Secure • Automated • Cloud-Ready
+</div>
 
 ---
 
