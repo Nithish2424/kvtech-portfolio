@@ -122,11 +122,10 @@ Connected infrastructure integrating automation systems, sensors, and smart devi
 
 ---
 
----
-
 ## 🔄 Engineering Lifecycle
 
-Requirement Analysis → Architecture → Development → Testing → CI/CD → Deployment & Support
+Analysis • Architecture • Development • Testing • CI/CD • Deployment
+
 ---
 
 # ☁ DevOps Deployment Workflow
