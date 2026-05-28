@@ -171,10 +171,11 @@ Scalable • Reliable • Secure • Automated • Cloud-Ready
 <div align="center">
 “Transforming businesses through scalable engineering and intelligent automation.”
 </div>
+
 ---
 
 <div align="center">
 
-# ⭐ Engineering • Innovation • Automation • Scalability ⭐
+<sub>Engineering • Innovation • Automation</sub>
 
 </div>
