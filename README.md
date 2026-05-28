@@ -16,7 +16,7 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 > Delivering scalable enterprise solutions through cloud technologies, intelligent automation, and modern engineering practices.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284068-8f1b3b7f-7d75-4f5f-b1ef-2f4b6e5f4b94.gif" width="100%">
 
 # 🚀 Engineering Ecosystem
 
