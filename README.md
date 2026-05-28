@@ -122,33 +122,11 @@ Connected infrastructure integrating automation systems, sensors, and smart devi
 
 ---
 
-# 🚀 Solution Ecosystem
-
-🏢 Enterprise Platforms  
-☁ Cloud & DevOps  
-📱 Mobile Applications  
-⚙ IoT & Automation  
-📊 Business Analytics  
-🤖 AI Engineering  
-
 ---
 
-# 🔄 Engineering Lifecycle
+## 🔄 Engineering Lifecycle
 
-```text
-Requirement Analysis
-        ↓
-Architecture Planning
-        ↓
-Development
-        ↓
-Testing & Quality Assurance
-        ↓
-CI/CD Deployment
-        ↓
-Maintenance & Optimization
-```
-
+Requirement Analysis → Architecture → Development → Testing → CI/CD → Deployment & Support
 ---
 
 # ☁ DevOps Deployment Workflow
