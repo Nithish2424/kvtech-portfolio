@@ -92,39 +92,33 @@ Manufacturing • Healthcare • Finance • Education • Retail • Mining •
 
 # 🚀 Featured Engineering Solutions
 
-## ⛽ PetroSol
-
-> Smart fuel station automation ecosystem with billing, stock control, and operational management.
-
----
-
-## 🤖 AI Rebar Estimation
-
-> AI-powered structural estimation platform for automated quantity analysis and engineering workflows.
+⛽ **PetroSol**  
+Smart fuel station automation ecosystem for billing, stock management, and operational control.
 
 ---
 
-## 🧠 Supplier Payment Automation
-
-> Generative AI & Power Platform solution for automated ERP reconciliation and supplier workflows.
-
----
-
-## ⛏ Mining Operations Platform
-
-> Integrated mining production, billing, compliance, and operational management system.
+🤖 **AI Rebar Estimation**  
+AI-driven structural estimation platform for automated engineering analysis.
 
 ---
 
-## 👨‍💼 Workforce Management
-
-> Mobile-first attendance, GPS tracking, payroll, and workforce monitoring ecosystem.
+🧠 **Supplier Payment Automation**  
+Enterprise ERP reconciliation and intelligent workflow automation platform.
 
 ---
 
-## ⚙ Smart IoT Applications
+⛏ **Mining Operations Platform**  
+Integrated mining ecosystem for compliance, production, and operational management.
 
-> Automation platforms powered by Raspberry Pi, sensors, and connected mobile systems.
+---
+
+👨‍💼 **Workforce Management**  
+Mobile workforce platform with attendance, GPS tracking, and payroll integration.
+
+---
+
+⚙ **Smart IoT Applications**  
+Connected infrastructure integrating automation systems, sensors, and smart devices.
 
 ---
 
