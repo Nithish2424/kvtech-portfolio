@@ -161,26 +161,16 @@ Scalable • Reliable • Secure • Automated • Cloud-Ready
 
 ---
 
-# 📞 Contact Information
+# 📞 Contact
 
-📧 manikandan@kvtechserv.com  
-
-📱 +91 8667604978  
-
-☎ +91 0452 2679097  
+📧 manikandan@kvtechserv.com • 📱 +91 8667604978 • ☎ +91 0452 2679097
 
 🌐 https://kvtechserv.com/
 
 ---
-
-# 🚀 Engineering Vision
-
-> Building scalable, intelligent, and cloud-ready digital ecosystems through automation, innovation, and modern engineering.
-
----
-
-> “Transforming businesses through scalable engineering and intelligent automation.”
-
+<div align="center">
+“Transforming businesses through scalable engineering and intelligent automation.”
+</div>
 ---
 
 <div align="center">
