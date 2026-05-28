@@ -168,6 +168,7 @@ Scalable • Reliable • Secure • Automated • Cloud-Ready
 🌐 https://kvtechserv.com/
 
 ---
+
 <div align="center">
 “Transforming businesses through scalable engineering and intelligent automation.”
 </div>
@@ -176,6 +177,8 @@ Scalable • Reliable • Secure • Automated • Cloud-Ready
 
 <div align="center">
 
-<sub>Engineering • Innovation • Automation</sub>
+### ⭐ Engineering • Innovation • Automation ⭐
 
 </div>
+
+---
