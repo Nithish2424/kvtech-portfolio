@@ -35,20 +35,9 @@ Cloud Engineering • Enterprise Automation • Intelligent Platforms • Mobile
 
 ---
 
-# 🏢 Industries We Empower
+## 🏢 Industries We Serve
 
-<div align="left">
-
-🏭 Manufacturing  
-🏥 Healthcare  
-🏦 Finance  
-🏫 Education  
-🛒 Retail  
-⛏ Mining  
-🚚 Logistics  
-🏢 Enterprise Operations  
-
-</div>
+Manufacturing • Healthcare • Finance • Education • Retail • Mining • Logistics • Enterprise Operations
 
 ---
 
