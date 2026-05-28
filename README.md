@@ -127,43 +127,32 @@ Connected infrastructure integrating automation systems, sensors, and smart devi
 
 Analysis • Architecture • Development • Testing • CI/CD • Deployment
 </div>
-
+---
 ## ☁ DevOps Workflow
 <div align="center">
 GitHub → Azure DevOps → CI/CD → Cloud Deployment
 </div>
-
+---
 ## ⚡ Engineering Principles
 <div align="center">
 Scalable • Reliable • Secure • Automated • Cloud-Ready
 </div>
-
 ---
 
 # 🌐 Corporate Presence
 
-## 🏢 Registered Office
-
-📍 3, Kani Vilas,  
-Kavery II Street, Parasakthi Nagar,  
-Madurai, Tamil Nadu – 625012, India
+🏢 **Registered Office**  
+📍 3, Kani Vilas, Kavery II Street, Parasakthi Nagar, Madurai, Tamil Nadu – 625012
 
 ---
 
-## 🏢 Development Center
-
-📍 No.7, 1st Floor, Meenakshi Avenue,  
-APK Main Road, Opp. Gladway,  
-Avaniyapuram, Madurai – 625012, Tamil Nadu, India
+🏢 **Development Center**  
+📍 No.7, 1st Floor, Meenakshi Avenue, APK Main Road, Opp. Gladway, Avaniyapuram, Madurai – 625012
 
 ---
 
-## 🏢 Chennai Branch
-
-📍 No.141, Workafella, 7th Floor,  
-TVH Agnitio Tech Park, OMR Service Road,  
-Kandhanchavadi, Perungudi,  
-Chennai – 600096, Tamil Nadu, India
+🏢 **Chennai Branch**  
+📍 No.141, Workafella, 7th Floor, TVH Agnitio Tech Park, OMR Service Road, Perungudi, Chennai – 600096
 
 ---
 
