@@ -127,13 +127,11 @@ Connected infrastructure integrating automation systems, sensors, and smart devi
 
 Analysis • Architecture • Development • Testing • CI/CD • Deployment
 </div>
----
 
 ## ☁ DevOps Workflow
 <div align="center">
 GitHub → Azure DevOps → CI/CD → Cloud Deployment
 </div>
----
 
 ## ⚡ Engineering Principles
 <div align="center">
