@@ -69,28 +69,24 @@ Manufacturing • Healthcare • Finance • Education • Retail • Mining •
 
 ---
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 <div align="center">
 
 ### 🚀 Development
-
 <img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet"/>
 
-<br><br>
+<br>
 
 ### ☁ Cloud & DevOps
-
 <img src="https://skillicons.dev/icons?i=azure,github,git"/>
 
-<br><br>
+<br>
 
 ### ⚙ IoT & Automation
-
 <img src="https://skillicons.dev/icons?i=raspberrypi"/>
 
 </div>
-
 ---
 
 # 🚀 Featured Engineering Solutions
