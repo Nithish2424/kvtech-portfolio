@@ -127,16 +127,21 @@ Connected infrastructure integrating automation systems, sensors, and smart devi
 
 Analysis • Architecture • Development • Testing • CI/CD • Deployment
 </div>
+
 ---
+
 ## ☁ DevOps Workflow
 <div align="center">
 GitHub → Azure DevOps → CI/CD → Cloud Deployment
 </div>
+
 ---
+
 ## ⚡ Engineering Principles
 <div align="center">
 Scalable • Reliable • Secure • Automated • Cloud-Ready
 </div>
+
 ---
 
 # 🌐 Corporate Presence
@@ -146,7 +151,7 @@ Scalable • Reliable • Secure • Automated • Cloud-Ready
 
 ---
 
-🏢 **Development Center**  
+🏢 **Madurai Branch**  
 📍 No.7, 1st Floor, Meenakshi Avenue, APK Main Road, Opp. Gladway, Avaniyapuram, Madurai – 625012
 
 ---
