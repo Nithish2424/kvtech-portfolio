@@ -18,17 +18,25 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 ---
 
-# 📈 Engineering Highlights
+# 🚀 What We Build
 
-<div align="center">
+### ☁ Cloud Engineering
+Azure Cloud • CI/CD • Deployment Automation • DevOps Infrastructure
 
-| 🚀 Solutions | ☁ Cloud | ⚙ Automation | 📱 Platforms |
-|:---:|:---:|:---:|:---:|
-| Enterprise Applications | Azure DevOps | Smart IoT Systems | Mobile Applications |
-| ERP Solutions | CI/CD Pipelines | Workflow Automation | GPS Tracking |
-| Billing Platforms | Cloud Deployment | AI Integration | Workforce Systems |
+---
 
-</div>
+### ⚙ Intelligent Automation
+Workflow Automation • AI Integration • Smart Operations
+
+---
+
+### 🏢 Enterprise Platforms
+ERP Solutions • Billing Systems • Workforce Management
+
+---
+
+### 📱 Digital Applications
+Mobile Applications • GPS Tracking • Smart Platforms
 
 ---
 
