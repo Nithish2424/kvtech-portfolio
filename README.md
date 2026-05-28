@@ -19,9 +19,9 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🚀 Engineering Ecosystem
-
+<div align="center">
 Cloud Engineering • Enterprise Automation • Intelligent Platforms • Mobile Systems • DevOps Infrastructure
-
+</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # ⚡ What Makes KVTECH Different?
@@ -36,9 +36,9 @@ Cloud Engineering • Enterprise Automation • Intelligent Platforms • Mobile
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🏢 Industries We Serve
-
+<div align="center">
 Manufacturing • Healthcare • Finance • Education • Retail • Mining • Logistics • Enterprise Operations
-
+</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🛠 Engineering Capabilities
