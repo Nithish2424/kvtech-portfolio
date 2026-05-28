@@ -41,35 +41,19 @@ Manufacturing • Healthcare • Finance • Education • Retail • Mining •
 
 ---
 
-# 🛠 Engineering Capabilities
+## 🛠 Engineering Capabilities
 
-### ☁ Cloud & DevOps
+<div align="center">
 
-Azure Cloud • CI/CD • Deployment Automation • Infrastructure Management
+| ☁ Cloud & DevOps | ⚙ Enterprise Systems | 📱 Mobile Solutions |
+|:---:|:---:|:---:|
+| Azure • CI/CD • Automation | ERP • Billing • Management | Tracking • Workforce • Smart Apps |
 
----
+| 🤖 Intelligent Automation | ⚡ IoT Engineering |
+|:---:|:---:|
+| AI • Workflow • Analytics | Sensors • Smart Infrastructure |
 
-### ⚙ Enterprise Applications
-
-ERP • Billing Systems • Inventory Platforms • Management Solutions
-
----
-
-### 📱 Mobile & Smart Solutions
-
-GPS Tracking • Android Apps • Workforce Platforms • Booking Systems
-
----
-
-### 🤖 Intelligent Automation
-
-AI Solutions • Process Automation • Workflow Optimization • Analytics
-
----
-
-### ⚡ IoT Engineering
-
-Raspberry Pi • Smart Sensors • Automation Systems • Connected Infrastructure
+</div>
 
 ---
 
