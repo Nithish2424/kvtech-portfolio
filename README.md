@@ -16,13 +16,13 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 > Delivering scalable enterprise solutions through cloud technologies, intelligent automation, and modern engineering practices.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🚀 Engineering Ecosystem
 
 Cloud Engineering • Enterprise Automation • Intelligent Platforms • Mobile Systems • DevOps Infrastructure
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # ⚡ What Makes KVTECH Different?
 
@@ -33,13 +33,13 @@ Cloud Engineering • Enterprise Automation • Intelligent Platforms • Mobile
 ✔ Cross-Platform Application Ecosystem  
 ✔ Long-Term Technical Support  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🏢 Industries We Serve
 
 Manufacturing • Healthcare • Finance • Education • Retail • Mining • Logistics • Enterprise Operations
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🛠 Engineering Capabilities
 
@@ -55,7 +55,7 @@ Manufacturing • Healthcare • Finance • Education • Retail • Mining •
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # ⚡ Engineering Focus
 
@@ -67,7 +67,7 @@ Manufacturing • Healthcare • Finance • Education • Retail • Mining •
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🛠 Technology Stack
 
@@ -88,39 +88,39 @@ Manufacturing • Healthcare • Finance • Education • Retail • Mining •
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🚀 Featured Engineering Solutions
 
 ⛽ **PetroSol**  
 Smart fuel station automation ecosystem for billing, stock management, and operational control.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 🤖 **AI Rebar Estimation**  
 AI-driven structural estimation platform for automated engineering analysis.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 🧠 **Supplier Payment Automation**  
 Enterprise ERP reconciliation and intelligent workflow automation platform.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ⛏ **Mining Operations Platform**  
 Integrated mining ecosystem for compliance, production, and operational management.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 👨‍💼 **Workforce Management**  
 Mobile workforce platform with attendance, GPS tracking, and payroll integration.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ⚙ **Smart IoT Applications**  
 Connected infrastructure integrating automation systems, sensors, and smart devices.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🔄 Engineering Lifecycle
 <div align="center">
@@ -128,38 +128,38 @@ Connected infrastructure integrating automation systems, sensors, and smart devi
 Analysis • Architecture • Development • Testing • CI/CD • Deployment
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## ☁ DevOps Workflow
 <div align="center">
 GitHub → Azure DevOps → CI/CD → Cloud Deployment
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## ⚡ Engineering Principles
 <div align="center">
 Scalable • Reliable • Secure • Automated • Cloud-Ready
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 🌐 Corporate Presence
 
 🏢 **Registered Office**  
 📍 3, Kani Vilas, Kavery II Street, Parasakthi Nagar, Madurai, Tamil Nadu – 625012
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 🏢 **Madurai Branch**  
 📍 No.7, 1st Floor, Meenakshi Avenue, APK Main Road, Opp. Gladway, Avaniyapuram, Madurai – 625012
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 🏢 **Chennai Branch**  
 📍 No.141, Workafella, 7th Floor, TVH Agnitio Tech Park, OMR Service Road, Perungudi, Chennai – 600096
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 # 📞 Contact
 
@@ -167,7 +167,7 @@ Scalable • Reliable • Secure • Automated • Cloud-Ready
 
 🌐 https://kvtechserv.com/
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <div align="center">
 
@@ -175,7 +175,7 @@ Scalable • Reliable • Secure • Automated • Cloud-Ready
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <div align="center">
 
@@ -183,4 +183,4 @@ Scalable • Reliable • Secure • Automated • Cloud-Ready
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
