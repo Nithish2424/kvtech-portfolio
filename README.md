@@ -163,7 +163,7 @@ Scalable • Reliable • Secure • Automated • Cloud-Ready
 
 # 📞 Contact
 
-📧 manikandan@kvtechserv.com • 📱 +91 8667604978 • ☎ +91 0452 2679097
+📧 manikandan@kvtechserv.com •   📱 +91 8667604978 •   ☎ +91 0452 2679097
 
 🌐 https://kvtechserv.com/
 
