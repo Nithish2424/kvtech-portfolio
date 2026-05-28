@@ -18,25 +18,9 @@ Cloud • Automation • IoT • Enterprise Applications • DevOps
 
 ---
 
-# 🚀 What We Build
+# 🚀 Engineering Ecosystem
 
-### ☁ Cloud Engineering
-Azure Cloud • CI/CD • Deployment Automation • DevOps Infrastructure
-
----
-
-### ⚙ Intelligent Automation
-Workflow Automation • AI Integration • Smart Operations
-
----
-
-### 🏢 Enterprise Platforms
-ERP Solutions • Billing Systems • Workforce Management
-
----
-
-### 📱 Digital Applications
-Mobile Applications • GPS Tracking • Smart Platforms
+Cloud Engineering • Enterprise Automation • Intelligent Platforms • Mobile Systems • DevOps Infrastructure
 
 ---
 
