@@ -1,302 +1,142 @@
-<div align="center">
+# 🏢 Kani Vilas Technology Services (KVTECH)
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      HERO BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+🌐 Website: [kvtechserv.com](https://kvtechserv.com)
+📧 Email: contact@kvtechserv.com
+📞 Phone: +91 00000 00000
+📍 Location: Chennai, Tamil Nadu, India
+🔗 LinkedIn: [KVTECH](https://linkedin.com/company/kvtech)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A5F,100:2563EB&height=180&section=header&text=KVTECH&fontSize=72&fontColor=38BDF8&fontAlignY=38&desc=Kani%20Vilas%20Technology%20Services&descSize=18&descAlignY=60&descColor=94A3B8" width="100%" />
+---
 
-<br/>
+## 🏛 About Us
 
-### **Engineering Innovation Through Technology**
+Kani Vilas Technology Services (KVTECH) is an enterprise technology company delivering scalable solutions across Cloud Engineering, IoT, Automation, AI, and Mobile Applications. We build reliable, secure, and cloud-ready systems for businesses across industries.
 
-<sub>Engineering scalable cloud, automation, and enterprise solutions.</sub>
+- **Domain:** Enterprise Software · Cloud · IoT · AI · Automation · Mobile
+- **Headquarters:** Chennai, Tamil Nadu, India
+- **Focus:** Scalable · Reliable · Secure · Automated · Cloud-Ready
 
-<br/>
+---
 
-[![Website](https://img.shields.io/badge/kvtechserv.com-38BDF8?style=for-the-badge&logo=globe&logoColor=0B1120)](https://kvtechserv.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-&nbsp;
-[![Email](https://img.shields.io/badge/Contact%20Us-0B1120?style=for-the-badge&logo=mail.ru&logoColor=38BDF8)](mailto:contact@kvtechserv.com)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     NAVIGATION                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[**About**](#-about-kvtech) &nbsp;·&nbsp; [**Domains**](#-engineering-domains) &nbsp;·&nbsp; [**Stack**](#-technology-stack) &nbsp;·&nbsp; [**Solutions**](#-featured-solutions) &nbsp;·&nbsp; [**Contact**](#-contact)
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" /></div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🏢 About KVTECH
-
-<div align="center">
-
-**Kani Vilas Technology Services (KVTECH)** is an enterprise technology firm delivering end-to-end solutions across Cloud, IoT, Automation, and AI — empowering businesses to modernize infrastructure, streamline operations, and scale with confidence.
-
-> *Trusted by enterprises. Built for tomorrow.*
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="60%" /></div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ENGINEERING DOMAINS                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⚙️ Engineering Domains
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/cloud.png" width="40"/><br/>
-      <b>Cloud Engineering</b><br/>
-      <sub>Azure-native infrastructure & migrations</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/code.png" width="40"/><br/>
-      <b>Enterprise Applications</b><br/>
-      <sub>Scalable .NET & web platforms</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/internet-of-things.png" width="40"/><br/>
-      <b>IoT Solutions</b><br/>
-      <sub>Connected devices & edge computing</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/><br/>
-      <b>AI Solutions</b><br/>
-      <sub>Intelligent automation & ML models</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/smartphone.png" width="40"/><br/>
-      <b>Mobile Applications</b><br/>
-      <sub>Cross-platform enterprise mobility</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://img.icons8.com/fluency/48/settings.png" width="40"/><br/>
-      <b>DevOps</b><br/>
-      <sub>CI/CD pipelines & cloud automation</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="60%" /></div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  TECHNOLOGY STACK                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🛠 Technology Stack
-
-<div align="center">
+## 🛠 Skills
 
 **Development**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-<br/>
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Frameworks:** React, .NET
+- **Tools:** VS Code, Git, GitHub
 
 **Cloud & DevOps**
-
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<br/>
+- **Cloud:** Microsoft Azure
+- **DevOps:** Azure DevOps, CI/CD Pipelines, GitHub Actions
 
 **IoT & Automation**
+- **Hardware:** Raspberry Pi
+- **Protocols:** MQTT, REST APIs
+- **Automation:** Process Automation, Workflow Orchestration
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+---
 
-</div>
+## 💻 Visual Skills
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet,azure,github,git,raspberrypi" />
+</p>
 
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="60%" /></div>
+---
 
-<br/>
+## 🚀 Projects
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  FEATURED SOLUTIONS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+### 🛢 PetroSol
+*Enterprise Petroleum Operations Platform | Cloud · .NET · Azure*
+- Built end-to-end petroleum operations management system for enterprise clients
+- Integrated real-time field data monitoring and process control dashboards
+- Deployed on Microsoft Azure with high-availability architecture
 
-## 🚀 Featured Solutions
+---
 
-<div align="center">
+### 🧱 AI Rebar Estimation
+*AI-Powered Construction Tool | Python · ML · Azure*
+- Developed ML model for automated rebar quantity prediction from construction drawings
+- Reduced manual estimation time significantly with AI-driven automation
+- Integrated with enterprise construction management workflows
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <b>🛢 PetroSol</b><br/>
-      <sub>Enterprise petroleum operations management platform</sub>
-    </td>
-    <td align="center" width="200">
-      <b>🧱 AI Rebar Estimation</b><br/>
-      <sub>ML-powered construction material quantity prediction</sub>
-    </td>
-    <td align="center" width="200">
-      <b>💳 Supplier Payment Automation</b><br/>
-      <sub>End-to-end automated B2B payment workflows</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <b>⛏ Mining Operations Platform</b><br/>
-      <sub>Real-time monitoring for large-scale mining sites</sub>
-    </td>
-    <td align="center" width="200">
-      <b>👷 Workforce Management</b><br/>
-      <sub>Intelligent scheduling and workforce analytics suite</sub>
-    </td>
-    <td align="center" width="200">
-      <b>📡 Smart IoT Applications</b><br/>
-      <sub>Connected device ecosystems for industrial automation</sub>
-    </td>
-  </tr>
-</table>
+---
 
-</div>
+### 💳 Supplier Payment Automation
+*Finance Automation Platform | .NET · Azure · Workflow*
+- Automated end-to-end B2B supplier payment processing workflows
+- Eliminated manual invoice reconciliation using intelligent automation
+- Integrated with ERP systems for seamless financial operations
 
-<br/>
+---
 
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="60%" /></div>
+### ⛏ Mining Operations Platform
+*Industrial Monitoring System | IoT · Cloud · Real-time*
+- Built real-time monitoring and operations management for large-scale mining sites
+- Integrated IoT sensors for live equipment tracking and safety alerts
+- Delivered cloud-based dashboard for remote site management
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 ENGINEERING WORKFLOW                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+### 👷 Workforce Management
+*Enterprise HR Suite | React · .NET · Azure*
+- Developed intelligent scheduling, attendance, and workforce analytics platform
+- Automated shift planning and workforce reporting for enterprise teams
+- Integrated with Azure AD for role-based access control
+
+---
+
+### 📡 Smart IoT Applications
+*Industrial IoT Solutions | Raspberry Pi · MQTT · Cloud*
+- Designed connected device ecosystems for industrial automation environments
+- Built real-time remote monitoring using Raspberry Pi and cloud integration
+- Delivered scalable IoT architecture for multi-site deployments
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,dotnet,azure,github,git,raspberrypi" />
+</p>
+
+---
+
+## 🏢 Corporate Presence
+
+**Registered Office** | Tamil Nadu, India
+**Development Center** | Chennai, Tamil Nadu
+**Chennai Branch** | Anna Nagar, Chennai
+
+---
 
 ## 🔄 Engineering Workflow
 
-<div align="center">
-
 ```
-  GitHub  ──▶  Azure DevOps  ──▶  CI/CD Pipeline  ──▶  Cloud Deployment
-    │               │                    │                     │
- Source Control   Sprint Mgmt       Automated Tests       Azure Production
+GitHub  →  Azure DevOps  →  CI/CD Pipeline  →  Azure Cloud Deployment
 ```
 
-</div>
-
-<br/>
-
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="60%" /></div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               ENGINEERING PRINCIPLES                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
 ## 🎯 Engineering Principles
 
-<div align="center">
+**Scalable · Reliable · Secure · Automated · Cloud-Ready**
 
-`Scalable` &nbsp;•&nbsp; `Reliable` &nbsp;•&nbsp; `Secure` &nbsp;•&nbsp; `Automated` &nbsp;•&nbsp; `Cloud-Ready`
+---
 
-</div>
-
-<br/>
-
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="60%" /></div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                CORPORATE PRESENCE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🏛 Corporate Presence
-
-<div align="center">
-
-| Office | Location |
-|---|---|
-| 🏢 Registered Office | Tamil Nadu, India |
-| 💻 Development Center | Chennai, Tamil Nadu |
-| 🌐 Chennai Branch | Anna Nagar, Chennai |
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="60%" /></div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      CONTACT                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📬 Contact
-
-<div align="center">
+## 📬 Contact Us
 
 | | |
 |---|---|
 | 📧 Email | contact@kvtechserv.com |
 | 📞 Phone | +91 00000 00000 |
 | 🌐 Website | [kvtechserv.com](https://kvtechserv.com) |
+| 📍 Location | Chennai, Tamil Nadu, India |
+| 💼 LinkedIn | [linkedin.com/company/kvtech](https://linkedin.com) |
 
-</div>
+---
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
-
-<br/>
-
-⭐ &nbsp; **Engineering &nbsp;•&nbsp; Innovation &nbsp;•&nbsp; Automation** &nbsp; ⭐
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=15&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Transforming+businesses+through+scalable+engineering;and+intelligent+automation.)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A5F,100:0B1120&height=80&section=footer" width="100%" />
-
-</div>
+<p align="center">⭐ Engineering · Innovation · Automation ⭐</p>
+<p align="center">
+  <a href="https://kvtechserv.com">kvtechserv.com</a>
+</p>
